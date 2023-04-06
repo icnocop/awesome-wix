@@ -4,6 +4,7 @@ A collection of awesome resources for the [WiX Toolset](https://wixtoolset.org/)
 
 ## Books
 * [WiX 3.6: A Developer's Guide to Windows Installer XML](https://www.amazon.com/WiX-3-6-Developers-Windows-Installer/dp/1782160426)
+* [WiX Cookbook](https://www.amazon.com/WiX-Cookbook-Nick-Ramirez/dp/1784393215)
 
 ## Editors
 * [IsWiX](https://github.com/iswix-llc/IsWiX)
