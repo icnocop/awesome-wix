@@ -34,3 +34,7 @@ A collection of awesome resources for the [WiX Toolset](https://wixtoolset.org/)
 
 ## Blog Posts
 * [How to build a Custom Installation Package Bundle using WPF, Prism, MEF, and WiX](https://assist-software.net/blog/how-build-custom-installation-package-bundle-using-wpf-prism-mef-and-wix)
+* [Custom WiX Managed Bootstrapper Application](https://bryanpjohnston.com/2012/09/28/custom-wix-managed-bootstrapper-application)
+
+## Other lists
+* [Stein Åsmul's Jumpgate](https://www.installdude.com/jumpgate.php)
