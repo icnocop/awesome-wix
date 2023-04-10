@@ -31,6 +31,8 @@ A collection of awesome resources for the [WiX Toolset](https://wixtoolset.org/)
 * [Clowd.Squirrel](https://github.com/clowd/Clowd.Squirrel)
 * [NSync](https://github.com/jongalloway/NSync)
 * [ClickOnce](https://learn.microsoft.com/en-us/visualstudio/deployment/clickonce-security-and-deployment)
+* [AutoUpdater.NET](https://github.com/ravibpatel/AutoUpdater.NET)
+* [NetSparkle](https://github.com/NetSparkleUpdater/NetSparkle)
 
 ## Blog Posts
 * [How to build a Custom Installation Package Bundle using WPF, Prism, MEF, and WiX](https://assist-software.net/blog/how-build-custom-installation-package-bundle-using-wpf-prism-mef-and-wix)
